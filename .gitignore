@@ -1,0 +1,18 @@
+# Ambientes virtuais
+venv/
+env/
+
+# Arquivos temporários do Python
+__pycache__/
+*.pyc
+
+# Arquivos de configuração sensíveis
+.env
+
+# Arquivos do sistema
+.DS_Store  # Para Mac
+Thumbs.db  # Para Windows
+
+# Diretórios de saída (ajuste conforme necessário)
+utilidades/relatorios/
+utilidades/alertas/
